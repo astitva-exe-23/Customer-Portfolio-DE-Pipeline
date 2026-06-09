@@ -21,7 +21,10 @@ This pipeline solves that by deriving **portfolio value and PnL** from raw trans
 ---
 
 ## 🏗️ Architecture
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/5924a0dc-3461-471b-8af0-a9c68753c4aa" />
+
 <img width="701" height="391" alt="data_lineagede drawio" src="https://github.com/user-attachments/assets/09f95557-eafa-48ad-8635-b996dea7c200" />
+
 
 
 ---
